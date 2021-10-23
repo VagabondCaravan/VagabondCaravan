@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VagabondCaravan
+- 👋 Hi, I’m Vagabond Caravan
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning blockchain programming
 - 💞️ I’m looking to collaborate with anyone that can use me
